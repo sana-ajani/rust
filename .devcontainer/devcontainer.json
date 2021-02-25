@@ -5,7 +5,8 @@
 		"ms-vsliveshare.vsliveshare",
 		"matklad.rust-analyzer",
 		"serayuzgur.crates",
-		"vadimcn.vscode-lldb"
+		"vadimcn.vscode-lldb",
+		"bungcip.better-toml"
 	],
 	"dockerFile": "Dockerfile",
 	"settings": {
